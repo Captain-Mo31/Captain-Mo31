@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Stats
 
-![GitHub followers](https://img.shields.io/github/followers/Captain-Mo31?label=GitHub-Followers&logo=GitHub&style=for-the-badge)!
+![GitHub followers](https://img.shields.io/github/followers/Captain-Mo31?label=GitHub-Followers&logo=GitHub&style=for-the-badge)
 
 ### ⚡ Recent Activity
 
@@ -60,4 +60,5 @@ Here are some ideas to get you started:
 
 ## 💻 Technologies I use
 
-<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img align="center" alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> <img align="center" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img align="center" alt="CSS" width="30px" 
+<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img align="center" alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> <img align="center" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="center" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
