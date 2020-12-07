@@ -21,25 +21,8 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/Captain-Mo31?label=GitHub-Followers&logo=GitHub&style=for-the-badge)
 
-### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--END_SECTION:activity-->
 
 ## 🔭 I’m currently working on ...
@@ -53,8 +36,9 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 
-- HtMl 
+- HTML 
 - Django 
+- Bulma CSS
 
  
 
