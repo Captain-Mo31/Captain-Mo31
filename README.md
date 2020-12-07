@@ -1,4 +1,4 @@
-### Hi there, I'm Dietrich aka HAUDRAUFHAUN 👋
+### Hi there, I'm Moritz 👋
 
 This is my personal GitHub README. Here you can read something about my developing/programming life, skills etc.
 
