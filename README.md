@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/Captain-Mo31?label=GitHub-Followers&logo=GitHub&style=for-the-badge)
 
-[![Catain-Mo31's github stats](https://github-readme-stats.vercel.app/api?username=Captain-Mo31&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Catain-Mo31's github stats](https://github-readme-stats.vercel.app/api?username=Captain-Mo31&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
