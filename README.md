@@ -26,22 +26,21 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 
-☁ <a href="https://github.com/HAUDRAUFHAUN/wlke">wlke</a>
-
 👨🏻‍🏫 <a href="https://github.com/HAUDRAUFHAUN/eduteam">eduteam</a>
 
-
-
+<hr>
 
 ## 🌱 I’m currently learning ...
 
-- HTML 
-- Django 
-- Bulma CSS
+- Svelte 
+- Tailwind CSS 
 
- 
+<hr> 
 
 ## 💻 Technologies I use
 
-<img align="center" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img align="center" alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"> <img align="center" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="center" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
+HTMl <br>
+Svelte <br>
+Django<br>
+Tailwind CSS<br>
+Bootstrap <br>
