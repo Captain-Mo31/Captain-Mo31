@@ -3,7 +3,7 @@
 
 ## Stats
 
-[![Catain-Mo31's github stats](https://github-readme-stats.vercel.app/api?username=Captain-Mo31&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Catain-Mo31's github stats](https://github-readme-stats.vercel.app/api?username=Captain-Mo31&show_icons=true&theme=vue&hide_border=true)]
 
 
 ## 🔭 I’m currently working on ...
